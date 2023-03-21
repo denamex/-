@@ -1,14 +1,14 @@
 # -
 视频存档
 
-content: https://raw.githubusercontent.com/denamex/-/main/video_97823656_832470.mp4
+sample content: https://raw.githubusercontent.com/denamex/-/main/video_97823656_832470.mp4
 
 ###################################
 
 
 sample decryption key: Password1!
 
-email for full key
+email for full collection key
 
 
 ###################################
