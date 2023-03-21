@@ -14,7 +14,7 @@ email for full collection key
 ###################################
 
 
-if you do not know how to decrypt the a files you may find some help below
+if you do not know how to decrypt the a video files you may find some help below
 
 
 windows version 7/10/11 home/pro
