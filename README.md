@@ -1,5 +1,8 @@
 # -
 视频存档
+
+content: https://raw.githubusercontent.com/denamex/-/main/video_97823656_832470.mp4
+
 ###################################
 
 
